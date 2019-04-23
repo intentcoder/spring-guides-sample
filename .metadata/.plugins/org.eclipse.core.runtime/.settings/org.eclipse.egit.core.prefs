@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=F\:\\Workspace\\spring-guides-workspace\\gs-rest-service\\.git;F\:\\Workspace\\spring-guides-workspace\\gs-scheduling-tasks\\.git;
+GitRepositoriesView.GitDirectories.relative=gs-rest-service\\.git;gs-scheduling-tasks\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
